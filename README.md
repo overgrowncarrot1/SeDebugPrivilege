@@ -1,0 +1,2 @@
+# SeDebugPrivilege
+SeDebugPrivilege compiled exploit
